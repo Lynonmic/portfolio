@@ -34,3 +34,20 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+download nextjs: npx create-next-app@latest ./
+then set default choices
+command npm run dev
+
+Add extensions 
+    tailwindcss and es7+ for css and react supports
+then you can change the title by access app/page.tsx 
+after that start off create elements such as div or icon in page.tsx
+
+tailwind.config.ts change the color to designated color that you want by 
+command, for example: black:{DEFAULT: '#000','#000319'}
+
+access to aceternity Ui page then download spotlight item
+create folder lib and import the available code to utils.ts in that page to complete
+import
+create folder ui and create Sportlight.tsx
