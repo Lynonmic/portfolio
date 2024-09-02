@@ -51,3 +51,17 @@ access to aceternity Ui page then download spotlight item
 create folder lib and import the available code to utils.ts in that page to complete
 import
 create folder ui and create Sportlight.tsx
+
+npm next theme
+shadcn/ui create a provider.tsx in app folder
+
+page.tsx like index.html in the page divide into components 
+so we have intro.tsx as the introduction phase firstly see whether open the website and the ui folder contains the element that contribute in decoration part 
+
+rafce being use when we do the ui and want to callback by command
+
+props is properties
+
+this {``} is dynamic template string
+
+react icon page
