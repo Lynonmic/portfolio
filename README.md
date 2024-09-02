@@ -65,3 +65,5 @@ props is properties
 this {``} is dynamic template string
 
 react icon page
+
+page>intro+floatingNav >components
